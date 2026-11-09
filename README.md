@@ -1,6 +1,6 @@
 # CSA08-1921260102-Assignment3
 
-**Name:** Bala Ashwin R  **Register number:** 1921260102
+**Name:** DHARSHIDHA S  **Register number:** 1911260095
 **Course:** Python Programming - Assignment 3 (CO3): lists, tuples, dictionaries, sets, copying, list comprehension
 
 ## Environment
